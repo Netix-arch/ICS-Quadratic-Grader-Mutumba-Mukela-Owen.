@@ -1,8 +1,3 @@
-LECTURER'S NAME:MR Z.KALUBA
-STUDENT NAME:OWEN MUKELA MUTUMBA
-ID:202400975
-COURSE CODE:251
-COURSE NAME:WEB TECHNOLOGIES 
 
 ## Project Description
 This is a *Single-File Web App* that allows users to:  
